@@ -1,0 +1,54 @@
+#encabezado{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+}
+div > h1 {
+    text-align: center;
+
+}
+#cuerpo{
+   background-color: grey;
+    padding: 17px;
+    margin-top: 82px;
+    
+
+}
+
+.postal{
+width: 36em;
+margin-left: 307px;
+margin-top: 43px;
+background-color: white;
+}
+
+div.subtitulo{
+margin-left: 6px;
+width: 35em;
+
+}
+
+.pag{
+    color: darkgrey;
+}
+
+.subtitulo{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    
+    width: 36em;
+    height: 28em;
+}
+
+.pie{
+    width: 35em;
+    height: 45px;
+    margin-left: 12px;
+    margin-top: 5px;
+}
+p {
+    font-weight:300;
+}
